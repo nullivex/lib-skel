@@ -1,13 +1,12 @@
 {
-	 "name":				"openlss/func-mda"
+	 "name":				"openlss/func-skel"
 	,"homepage":			"http://openlss.org"
-	,"description":			"MDA (Multi Dimensional Array) access helpers for PHP"
+	,"description":			"Skeleton for new function packages"
 	,"license":				"LGPL-3.0+"
 	,"type":				"library"
 	,"keywords": [
-		 "array"
-		,"multi-dimensional array"
-		,"array helper"
+		 "function"
+		,"skeleton"
 	]
 	,"authors": [
 		 {
