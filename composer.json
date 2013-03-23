@@ -1,7 +1,7 @@
 {
-	 "name":				"openlss/func-skel"
+	 "name":				"openlss/lib-skel"
 	,"homepage":			"http://openlss.org"
-	,"description":			"Skeleton for new function packages"
+	,"description":			"Skeleton for new library packages"
 	,"license":				"LGPL-3.0+"
 	,"type":				"library"
 	,"keywords": [

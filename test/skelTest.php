@@ -22,12 +22,12 @@ namespace LSS;
 
 require_once(dirname(__DIR__).'/vendor/autoload.php');
 require('boot.php');
-ld('func/skel');
+ld('skel');
 
-class FuncSkelTest extends \PHPUNIT_Framework_TestCase {
+class LibSkelTest extends \PHPUNIT_Framework_TestCase {
 
 	public function testSKel(){
-		$this->assertTrue(is_callable('LSS\skel_test'));
+		$this->assertTrue(is_callable(array('LSS\Skel','test')));
 	}
 
 }

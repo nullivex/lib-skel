@@ -20,6 +20,11 @@
  */
 namespace LSS;
 
-function skel_test(){
-	return true;
+class Skel {
+	
+	public function test(){
+		return true;
+	}
+
 }
+
