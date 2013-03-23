@@ -1,4 +1,4 @@
-openlss/func-skel
+openlss/lib-skel
 ========
 
 Description goes here
@@ -7,7 +7,7 @@ Usage
 ----
 
 ```php
-ld('func/skel');
+ld('skel');
 
 //usage code goes here
 
@@ -16,7 +16,7 @@ ld('func/skel');
 Reference
 ----
 
-### (mixed) function($arg1,$arg2)
+### (mixed) Skel::function($arg1,$arg2)
 Function that does stuff
   * $arg1		arg1 description
   * $arg2		arg2 description
